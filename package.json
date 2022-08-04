@@ -1,0 +1,27 @@
+{
+  "name": "netlify-serverless",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaspyder/netlify-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaspyder/netlify-serverless/issues"
+  },
+  "homepage": "https://github.com/Jaspyder/netlify-serverless#readme",
+  "dependencies": {
+    "@mozilla/readability": "^0.4.2",
+    "dompurify": "^2.3.10",
+    "got": "^12.3.0",
+    "jsdom": "^20.0.0",
+    "nvm": "^0.0.4"
+  }
+}
